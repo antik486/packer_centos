@@ -11,3 +11,5 @@ log/*.*
 *.swo
 *.out
 *.lock
+*.iso
+*.box
