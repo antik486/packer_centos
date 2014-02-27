@@ -1,5 +1,4 @@
 packer_centos
-=============
 
 sudo gem install packer
 paker template.json
