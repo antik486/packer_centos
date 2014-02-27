@@ -1,0 +1,13 @@
+ebin
+deps
+*.beam
+*.boot
+*.script
+ebin/*.app
+deps/*.*
+log/*.*
+.DS_Store
+*.swp
+*.swo
+*.out
+*.lock
